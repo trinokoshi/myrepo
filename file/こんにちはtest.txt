@@ -1,10 +1,12 @@
 こんにちは.test
 aa
-12345
-もじこーどの変換
+
 test
 age
 56789
 hoge
-
+88888を追加
+function aaa(){
+	88888
+}
 test1234

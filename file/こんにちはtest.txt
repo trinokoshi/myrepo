@@ -1,6 +1,7 @@
-﻿こんにちは.test
+こんにちは.test
 aa
 もじこーどの変換
 test
 age
+56789
 hoge

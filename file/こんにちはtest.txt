@@ -1,13 +1,2 @@
 こんにちは.test
-aa
-
-test
-age
-56789
-hoge
-88888を追加
-function aaa(){
-	88888
-}
-test1234
-9999
+12123

@@ -4,4 +4,8 @@ aaaaa
 sssss
 
 テストブランチ
+<<<<<<< .merge_file_UJwsqu
 てすと
+=======
+あああああ
+>>>>>>> .merge_file_4z5sPs
